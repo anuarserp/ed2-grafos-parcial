@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Grafo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Grafo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
